@@ -1,0 +1,15 @@
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/bin/Debug/net7.0/Задача_1
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/bin/Debug/net7.0/Задача_1.deps.json
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/bin/Debug/net7.0/Задача_1.runtimeconfig.json
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/bin/Debug/net7.0/Задача_1.dll
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/bin/Debug/net7.0/Задача_1.pdb
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.csproj.AssemblyReference.cache
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.AssemblyInfoInputs.cache
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.AssemblyInfo.cs
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.csproj.CoreCompileInputs.cache
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.dll
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/refint/Задача_1.dll
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.pdb
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/Задача_1.genruntimeconfig.cache
+/Users/dariyamax/Documents/GB/GIT/ProrammerSeminars/Seminars/Seminar_1/Задача_1/obj/Debug/net7.0/ref/Задача_1.dll
